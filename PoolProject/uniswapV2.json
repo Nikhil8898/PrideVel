@@ -1,0 +1,811 @@
+{
+  "data": {
+    "pairs": [
+      {
+        "id": "0x00004ee988665cdda9a1080d5792cecd16dc1220",
+        "token0": {
+          "id": "0x4d44d6c288b7f32ff676a4b2dafd625992f8ffbd",
+          "symbol": "SLC",
+          "name": "Solution Life Coin",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "decimals": "6"
+        },
+        "reserve0": "199.713907280830191521",
+        "reserve1": "40.523599"
+      },
+      {
+        "id": "0x0000871c95bb027c90089f4926fd1ba82cdd9a8b",
+        "token0": {
+          "id": "0x5152e1cb69a2ffa3997e89cbb4aba76a01d82141",
+          "symbol": "HORE",
+          "name": "HARDCORE",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000007155",
+        "reserve1": "0.000000000000000141"
+      },
+      {
+        "id": "0x00030110a7053083a7a160449a0e8f1adce9438d",
+        "token0": {
+          "id": "0x65f9a292f1aeed5d755aa2fd2fb17ab2e9431447",
+          "symbol": "SOMEE",
+          "name": "SoMee.Social",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "1889295.539719138714204481",
+        "reserve1": "8.235951887712734162"
+      },
+      {
+        "id": "0x00031554ee74e4a6d497677e5152d94c3dbe5f46",
+        "token0": {
+          "id": "0x59c8c614bcf74041143710ec09e5837d9383ba16",
+          "symbol": "DATCx",
+          "name": "DATO Curve x",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000020727",
+        "reserve1": "0.000183887381173668"
+      },
+      {
+        "id": "0x0003590d5a65a27163b23eb0721235c40f2b49b4",
+        "token0": {
+          "id": "0x36f4d7bfa207223e7324fb2bd2bac7aded147317",
+          "symbol": "Pizza Hut",
+          "name": "Pizza Hut Metaverse",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "6227438971.901183213497934467",
+        "reserve1": "10.129548473804536519"
+      },
+      {
+        "id": "0x0003713f74bc8c3435f4499eb0cbc6298cd1529d",
+        "token0": {
+          "id": "0x2432c78801380ba2538f9bddf65c81d525e64db4",
+          "symbol": "WGRT",
+          "name": "WGRT",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000739214379",
+        "reserve1": "0.000000000000000001"
+      },
+      {
+        "id": "0x00048cf1acdb5fa81a0facf869ef60c3f49bfe36",
+        "token0": {
+          "id": "0x34c3f50e408abac32436d7f744f89379e5c2b972",
+          "symbol": "COCK",
+          "name": "CocktailToken",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "11595757.502067361946364787",
+        "reserve1": "0.071635636694727801"
+      },
+      {
+        "id": "0x0004ecc9fdb2dac546a215abeb7ce73439f96cd1",
+        "token0": {
+          "id": "0x171f9cfc136f2b2aaa148fcc6b660a2029bab048",
+          "symbol": "AUS",
+          "name": "Gold Standard",
+          "decimals": "4"
+        },
+        "token1": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "decimals": "6"
+        },
+        "reserve0": "0.0015",
+        "reserve1": "0.070645"
+      },
+      {
+        "id": "0x0005ee2ef3f313ae168451ef8174b4fcc508819f",
+        "token0": {
+          "id": "0x1a5f9352af8af974bfc03399e3767df6370d82e4",
+          "symbol": "OWL",
+          "name": "OWL Token",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "105.431351664287910609",
+        "reserve1": "0.017717790892426943"
+      },
+      {
+        "id": "0x0006bc3e52137a1873d7d8cd779a7e138bb7e929",
+        "token0": {
+          "id": "0x1828e7a548bbd4a90ac74e0b411503512dd25268",
+          "symbol": "SAPI",
+          "name": "Systematic API",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000020216",
+        "reserve1": "0.00000000000000005"
+      },
+      {
+        "id": "0x000a7f585c99791e49fa75fdbfbc8588a1f6ffc8",
+        "token0": {
+          "id": "0xa06f6870b254a9ad05e27ac93168d9c8f6d40c81",
+          "symbol": "MEV",
+          "name": "I LOVE SMELL OF MEV SANDWICH IN THE MORNING",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000001277207",
+        "reserve1": "0.000000000000000001"
+      },
+      {
+        "id": "0x000bc4f31d2c8dcc66f6f1c93bb00920e3ea6c5d",
+        "token0": {
+          "id": "0xb8d9059ce0bfaa6d9e823383067a526434b2059b",
+          "symbol": "UNISTAKE",
+          "name": "UniStake",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000045688",
+        "reserve1": "0.000000000000000022"
+      },
+      {
+        "id": "0x000c5583ec00b076c41292484b3a24c3416583f0",
+        "token0": {
+          "id": "0x1334c5629fe4ace62d4d5e9a0b9b44da7212e21e",
+          "symbol": "UGLYSHIB",
+          "name": "UglyShiba",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.00000000444716489",
+        "reserve1": "0.000000000000000001"
+      },
+      {
+        "id": "0x000c5c3905733ad4abe97bd7c52170d9ddf116ee",
+        "token0": {
+          "id": "0x181c514ef87e069d138a197dbd9f4e2a3d2fece9",
+          "symbol": "RFbtc",
+          "name": "RFbtc",
+          "decimals": "8"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "192299.89572341",
+        "reserve1": "0.070843145402652943"
+      },
+      {
+        "id": "0x000d6bc79e6d73bdd2099942f3fd4b87f8e3c33c",
+        "token0": {
+          "id": "0xbe579711fe8d7e566793a1553334c61f9cb56999",
+          "symbol": "CoFiX",
+          "name": "CoFiX.io",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000001671",
+        "reserve1": "0.000000000000000602"
+      },
+      {
+        "id": "0x000dd0b1528a396c6ea2e09796a7b4a534e9e37b",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+          "symbol": "ISP",
+          "name": "Ispolink Token",
+          "decimals": "18"
+        },
+        "reserve0": "41.777947646023299521",
+        "reserve1": "48947279.710478005438595572"
+      },
+      {
+        "id": "0x000e5cd0436cc6965dbd00c63f5745c1a15a8fa8",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xd0652e2c3e7127c20625503a73fdacfe1e20e1cf",
+          "symbol": "BLACKPANTHER",
+          "name": "Black Panther",
+          "decimals": "9"
+        },
+        "reserve0": "0.000000000000000083",
+        "reserve1": "0.000012114"
+      },
+      {
+        "id": "0x0010b1d178614e65c877fc5ff8c1b469c2cdbb14",
+        "token0": {
+          "id": "0x753481e27a753db9168cb855a6d16d7767f3679a",
+          "symbol": "WMS",
+          "name": "Watermelon Swap",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000004298318",
+        "reserve1": "0.000000000000000001"
+      },
+      {
+        "id": "0x0012ab271b58299c90b597fad5cc45e30450105c",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xd0c3c546d7f6e8f7cd68d8e049e798ba8529677d",
+          "symbol": "FSHIBA",
+          "name": "Fluffy Shiba",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000000001",
+        "reserve1": "0.000000000057122853"
+      },
+      {
+        "id": "0x0012f39f6f0219bc44c0404923b526ad26844433",
+        "token0": {
+          "id": "0x38e40378428b34d8102f41f46d3d9fba4056cb76",
+          "symbol": "SNORLAX",
+          "name": " Snorlax Inu  ",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000012716557106",
+        "reserve1": "0.000000000000000001"
+      },
+      {
+        "id": "0x00146b23e4861b00f6c242c25fbcbc72f5dbae69",
+        "token0": {
+          "id": "0x8b97a9bba080f0be310c07bc308fbaeaa5f604d1",
+          "symbol": "SON",
+          "name": "SON TOKEN",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000020074",
+        "reserve1": "0.00000000000000005"
+      },
+      {
+        "id": "0x00153b7c47163a2c2fabd9eb44745678f709800d",
+        "token0": {
+          "id": "0x48bcb97e63f91c8e064307e9ff35e86e4cab6f98",
+          "symbol": "5XCHAD",
+          "name": "5x Chadcoin",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000056526",
+        "reserve1": "0.000000000000000018"
+      },
+      {
+        "id": "0x001631be213ed129110990e31667cd954970243f",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xd71ecff9342a5ced620049e616c5035f1db98620",
+          "symbol": "sEUR",
+          "name": "Synth sEUR",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000030091",
+        "reserve1": "0.004045223246059365"
+      },
+      {
+        "id": "0x00169b1dd92b039a94d33f65c31bf1c297657a72",
+        "token0": {
+          "id": "0x7ccc863ece2e15bc45ac0565d410da7a3340ad98",
+          "symbol": "DFY",
+          "name": "Dotify Token",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "148467375.18636272260086712",
+        "reserve1": "0.726271861065306185"
+      },
+      {
+        "id": "0x0016e7ef098ce56339296292da92ae1b7228d433",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xebd04f04f260f5032ec09d7fd29df3bf31f7acd4",
+          "symbol": "SPHE",
+          "name": "SPHERA",
+          "decimals": "18"
+        },
+        "reserve0": "1.037414748000870875",
+        "reserve1": "1141792256.004411378636913267"
+      },
+      {
+        "id": "0x0017af076efb1c1bc4f03ab7722f060310f3056b",
+        "token0": {
+          "id": "0xb6c7fa953f4e87e1c3f1d359492b6b6489c7b288",
+          "symbol": "NWC",
+          "name": "New World Crypto",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000009979219",
+        "reserve1": "0.000000000000000001"
+      },
+      {
+        "id": "0x001994ad4a735cf3a560828e3f873250a96ee851",
+        "token0": {
+          "id": "0x8c4189bb68e2620d618fa5fb5f334fd02423fcdf",
+          "symbol": "DOKI",
+          "name": "Doki Inu",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000049955922183",
+        "reserve1": "0.000000000000000001"
+      },
+      {
+        "id": "0x001c5306d1bbcea1240c5f4bf990ffb9177ff377",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xeeb1329f03a0bb67fd53be758ad3c27fc2a4c8d2",
+          "symbol": "Breast",
+          "name": "Breast",
+          "decimals": "9"
+        },
+        "reserve0": "0.000000000000000707",
+        "reserve1": "0.000001428"
+      },
+      {
+        "id": "0x001da7940d6ef6466c6d4a89b75c969dc89b80ee",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xf7e5c0f2cde163b94d460a8a734bf547160a7b67",
+          "symbol": "YFTT",
+          "name": "YFTT.Finance",
+          "decimals": "18"
+        },
+        "reserve0": "0.000053493728930158",
+        "reserve1": "7500000"
+      },
+      {
+        "id": "0x001ed49f42862f6e3e5d5ce173d29bf942796e78",
+        "token0": {
+          "id": "0x6f3afe811f3a6ea2666eb2f3b30d137d7ca7ebec",
+          "symbol": "SPACEAPE",
+          "name": "SPACEAPE",
+          "decimals": "9"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000015971",
+        "reserve1": "0.000000000000000064"
+      },
+      {
+        "id": "0x001fb7fceb14c359e4de504c832349390aa72cc4",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xd86ea1dc3333aff42263f740ee359ec0ed6d40c3",
+          "symbol": "BBB",
+          "name": "BLOCKCHAIN BILLIONAIRE BOYS",
+          "decimals": "18"
+        },
+        "reserve0": "0.000220880327625403",
+        "reserve1": "0.01"
+      },
+      {
+        "id": "0x002588d4948e32aba991e8df8d4de9aaa48e928b",
+        "token0": {
+          "id": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "symbol": "USDT",
+          "name": "Tether USD",
+          "decimals": "6"
+        },
+        "token1": {
+          "id": "0xe5caef4af8780e59df925470b050fb23c43ca68c",
+          "symbol": "FRM",
+          "name": "Ferrum Network Token",
+          "decimals": "6"
+        },
+        "reserve0": "0.00053",
+        "reserve1": "0.002763"
+      },
+      {
+        "id": "0x00271d6e6004fc6322b2bf6b56bd3972cf3ea280",
+        "token0": {
+          "id": "0x6ed3eb1cda5dd3e9c41dfbcd1ed52639ee373dd7",
+          "symbol": "BABYSHIBEVER",
+          "name": "Baby Shiba Forever",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000301558363",
+        "reserve1": "0.000000000000000001"
+      },
+      {
+        "id": "0x0027d3d8e3404f3b6018ae59e969308ef6a7a04a",
+        "token0": {
+          "id": "0xa9c6f8bfec48a6d64de01ff7ac46ee1299af9c04",
+          "symbol": "SHINJI",
+          "name": "Shinji Inu",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000001916305524",
+        "reserve1": "0.000000000062808922"
+      },
+      {
+        "id": "0x00291e2f1839ba80ccdbc1c0e45245946908e0c4",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xde7a726771af7449a7ada5735b48e80c479b7e3d",
+          "symbol": "vMAX",
+          "name": "V4P0RM4X",
+          "decimals": "9"
+        },
+        "reserve0": "6.898128600684348933",
+        "reserve1": "463503964051.128668224"
+      },
+      {
+        "id": "0x00293eea1aa65e5b56c08d32f542b8135ec4150b",
+        "token0": {
+          "id": "0x1069aa1ae2af40463ae988e4550a35832aa72b3a",
+          "symbol": "WinWin🚀",
+          "name": "Auto Win🚀",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000009811077486",
+        "reserve1": "0.000000000000000001"
+      },
+      {
+        "id": "0x0029a9ed4b02ccab0e7d32b7f197e2ae3cddb5a8",
+        "token0": {
+          "id": "0x843928c74a30eb83d8432e397a027e0768a52303",
+          "symbol": "ND",
+          "name": "NICE DAY WAGMI",
+          "decimals": "9"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000538",
+        "reserve1": "0.000000000000001948"
+      },
+      {
+        "id": "0x0029c2d413b34e99f0b528d3f6b5462fc0819fb8",
+        "token0": {
+          "id": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+          "symbol": "sUSD",
+          "name": "Synth sUSD",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xf5238462e7235c7b62811567e63dd17d12c2eaa0",
+          "symbol": "CGT",
+          "name": "CACHE Gold",
+          "decimals": "8"
+        },
+        "reserve0": "0.000000000791867586",
+        "reserve1": "0"
+      },
+      {
+        "id": "0x002a201afd448b8a95e33db5a86e4edb93566e75",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xec3e5d7e1f60e53e39c683d362edc206bf2b9878",
+          "symbol": "ECOON",
+          "name": "Ethereum Raccoon 🦝",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000000001",
+        "reserve1": "0.000000008330506156"
+      },
+      {
+        "id": "0x002b52166024a3ba87a2bea436180289c2712097",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xdc460fb2afe2090cf83f69523e97744b93f2ab8f",
+          "symbol": "$PokemonInu",
+          "name": "PokemonInu",
+          "decimals": "9"
+        },
+        "reserve0": "0.03750454292711139",
+        "reserve1": "5481957770.947978281"
+      },
+      {
+        "id": "0x002b931ef0edc4bf61cfa47e82d85fe3a6a31197",
+        "token0": {
+          "id": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "symbol": "USDC",
+          "name": "USD//C",
+          "decimals": "6"
+        },
+        "token1": {
+          "id": "0xe336ac63cf871a66e7fbe74d1dc5c6774fbed281",
+          "symbol": "DGT",
+          "name": "DGT",
+          "decimals": "18"
+        },
+        "reserve0": "0.000001",
+        "reserve1": "0.000000140968211369"
+      },
+      {
+        "id": "0x002d5d2e048c98926ab0dae5ea7445fc3091e4c4",
+        "token0": {
+          "id": "0xa3863eb27f33def32a372455b088cab2aeed1426",
+          "symbol": "RDFI",
+          "name": "rawdefi.com",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000026832",
+        "reserve1": "0.000000000000000038"
+      },
+      {
+        "id": "0x002df45a71347ce68e10a0eb328a1e6bbc9d79f7",
+        "token0": {
+          "id": "0x7de54fb5a009eeb58839c723a7e7107fd0431788",
+          "symbol": "NEEK",
+          "name": "Neek.Finance",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "1",
+        "reserve1": "0.00015"
+      },
+      {
+        "id": "0x002e351cfc8474e7a84d54f1127fddd0a769f353",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xf8013a3d67dde686c3dbd9e9cf395c4cd13fab96",
+          "symbol": "VIKGE",
+          "name": "VIKGE",
+          "decimals": "12"
+        },
+        "reserve0": "0.000000000000000001",
+        "reserve1": "4817579384.724971570568"
+      },
+      {
+        "id": "0x002e5aa23751eca86ec1ce516c6ac67983464125",
+        "token0": {
+          "id": "0x044ac47a7270878a17b56c6baadd485fb6200e72",
+          "symbol": "XBAN",
+          "name": "xBAN",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "0.000000000000008059",
+        "reserve1": "0.000000000000000125"
+      },
+      {
+        "id": "0x0032ede158815ce1aab6d4c3c957092d9e131eb7",
+        "token0": {
+          "id": "0x47fdccfc71197b4187be2802a9de94803d1835f8",
+          "symbol": "LDOGE",
+          "name": "LiteDoge",
+          "decimals": "0"
+        },
+        "token1": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "reserve0": "9",
+        "reserve1": "0.000000000000121715"
+      },
+      {
+        "id": "0x00345549d424e9e86d8fb2a965f94b8494740b57",
+        "token0": {
+          "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "name": "Wrapped Ether",
+          "decimals": "18"
+        },
+        "token1": {
+          "id": "0xeb3f55e45ac9440eef3e31bbfecef8bf580b0836",
+          "symbol": "COON",
+          "name": "Racoon Token",
+          "decimals": "9"
+        },
+        "reserve0": "0.000000000000000001",
+        "reserve1": "3350036470.333526948"
+      },
+      {
+        "id": "0x00364055048381ae0839cd53fa74804b76ddda58",
+        "token0": {
+          "id": "0x1f1f05c89e0cee93a5c82fac3c41196cb459bc5f",
+          "symbol": "PAYPAL",
+          "name": "PayPal",
+          "decimals": "18"
+        },
+        "token

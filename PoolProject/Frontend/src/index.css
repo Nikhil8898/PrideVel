@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 50px;
+    background-color: #ecebeb;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+}
+
+.components{
+  display: flex;
+  flex-direction: column;
+}
+
+section {
+    margin-top: 10px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: #ffffff;
+    width: 600px;
+    margin-left: 20px;
+    font-size: 12px;          
+    padding: 10px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+     /* border-radius: 5px; */
+} 
+.seach--input{
+    width: 340px;
+}
+
+.seach--category{
+  width: 220px;
+}
+
+.cards-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    flex-direction: row;
+
+}
+
+.header{
+    background-color: #ffffff;
+    margin-top: 30px;
+    margin-left: 20px;
+    width: 600px;
+    font-size: 12px;
+    padding: 10px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;   
+}
+
+.card {
+    background-color: #ffffff;
+    margin-left: 20px;
+    width: 600px;
+    font-size: 12px;
+    padding: 10px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;    
+}
+
+
+.card--div2{
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+}
+
+.card--div3{
+  display: flex;
+  flex-direction: row;
+  font-size: 10px;
+  justify-content: space-between;
+}
+
+.card--profile{
+  border-radius: 50%;
+  max-width: 30px;
+  max-height: 30px;
+}
+
+.card--title{
+  font-size: x-large;
+}
+
+.card-divider{
+  width: 580px;
+}
+
+.ticket {
+  
+    background-color: #ffffff;
+    height: 400px;
+    margin-left: 20px;
+    max-width: 300px;
+    font-size: 12px;
+    padding: 10px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.ticket--label{
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.ticket-divider{
+  width: 280px;
+}
+
+.ticket--category{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.ticket--title{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.ticket--desc{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  max-width: 270px;
+}
+
+.fetch{
+  width: 120px;
+}
